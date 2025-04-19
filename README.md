@@ -1,4 +1,4 @@
-# 📦 Sistema de Inventario
+# 📦 Sistema de Inventario - Backend
 
 Ejercicio CRUD desarrollado con **Spring Boot** para la gestión de inventario de objetos, permitiendo agregar, actualizar, listar y eliminar elementos de manera eficiente.
 
@@ -16,4 +16,4 @@ Los datos gestionados por este backend son consumidos por un **frontend desarrol
 ## 🔗 Frontend
 
 El frontend del sistema fue desarrollado con **Angular** y consume los endpoints expuestos por este backend.  
-*(Este repositorio contiene únicamente el backend. El frontend se encuentra en otro repositorio.)*
+🔗 [Repositorio del Frontend – Inventario-Frontend-Angular](https://github.com/AlexisCepeda/Inventario-Frontend-Angular)
